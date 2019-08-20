@@ -99,7 +99,7 @@ public class Exam_04 {
 						if(2*i+4*j == 10){
 				System.out.println("x=" +  i + ", y=" + j);
 			}
-	}   
+	}    ss
 	
 		[4-12] 구구단의 일부분을 다음과 같이 출력하시오.
 					
