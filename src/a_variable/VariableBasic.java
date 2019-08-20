@@ -18,6 +18,7 @@ public class VariableBasic {
 //		줄
 //		주
 //		석
+		//
 		
 		/*이거는 많은 양의 주석을 쓸때 쓰는것
 		 *여러줄 주석
